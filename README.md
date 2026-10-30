@@ -57,6 +57,26 @@ My experience includes Moodle course management, interactive content development
 - eLearning Documentation and Quality Assurance
 - Digital Learning Support and Training
 
+## 🔬 Research, Publications and Conferences
+
+### Accepted Conference Paper – ELIC 2025
+
+**Title:** Overcoming Language Barriers in Global E-Learning Platforms
+
+**Conference:** E-Learning Innovations Conference (ELIC 2025)
+
+**Institution:** Kwame Nkrumah University of Science and Technology (KNUST), Ghana
+
+**Co-author:** Tafadzwa Innocent Musinachirevo
+
+**Status:** Paper accepted for the conference.
+
+**Research Focus:**
+- Language accessibility in global eLearning platforms.
+- Multilingual subtitles and translation technologies.
+- Culturally responsive digital learning content.
+- Improving accessibility and inclusivity in online education.
+
 ## 🎯 Professional Interests
 
 Educational Technology | Instructional Design | Digital Pedagogy | Online Education | Learning Management Systems
