@@ -67,7 +67,7 @@ Educational Technology | Instructional Design | Digital Pedagogy | Online Educat
 - **GitHub:** https://github.com/fortunate-masudze
 - **Email:** fmasudze@buse.ac.zw
 
-*Transforming educational materials into engaging and accessible digital learning experiences.*## Hi there 👋
+*Transforming educational materials into engaging and accessible digital learning experiences.*
 
 <!--
 **fortunate-masudze/fortunate-masudze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
