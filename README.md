@@ -18,7 +18,7 @@ My experience includes Moodle course management, interactive content development
 
 ## 🛠️ Technical Skills
 
-- **Learning Management Systems:** Moodle 4.5, course creation and content management.
+- **Learning Management Systems:** Moodle, course creation and content management.
 - **eLearning Authoring Tools:** Articulate Rise 360 and iSpring Suite.
 - **Content Development:** Interactive learning materials and multimedia content.
 - **Online Learning:** SCORM packages and self-paced learning.
